@@ -1,3 +1,1 @@
-"Fichero de lectura dentro de nuestro repositorio".
-Andrea Sarai Juárez Munguia
-IDGS91
+Esto es una modificación al fichero de matemáticas
