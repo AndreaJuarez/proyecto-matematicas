@@ -7,3 +7,7 @@ Por lo general, se dividen en dos categorías:
 Fuente: Introducción a las APIs web - Aprende sobre desarrollo web | MDN. (2021, noviembre 6). MND Web Docs. Recuperado 7 de noviembre de 2021, de https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Introduction 
 
 ![api](https://user-images.githubusercontent.com/50895566/140667504-e652e30a-a579-4470-a085-9803511222df.jpg)
+
+# Conclusión
+
+Cuando queremos almacenar información en la nube y usar dicha información para mostrarla en diferentes plataformas, podemos usar apis que nos permitan comunicarnos con el sitio que esta almacenando nuestra informacion, de esta manera podemos hacer uso de los datos sin importar lo que sea estemos desarrollando.
