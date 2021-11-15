@@ -11,6 +11,8 @@ Todos los servicios web estándar funcionan utilizando los siguientes componente
 * UDDI (Universal Description, Discovery and Integration)
 * WSDL (Lenguaje de descripción de servicios web)
 
+Como sabemos la mayoría de los sitios webs (por ejemplo, Facebook, MySpace, Microsoft) usan aplicaciones que utilizan servicios webs (web services). Algunas de las funciones que nos pueden brindar las web services son fomentar los estándares y protocolos basados en texto, que hacen más fácil acceder a su contenido y entender su funcionamiento. Incluso, permiten que servicios y software de diferentes compañías ubicadas en diferentes lugares geográficos puedan ser combinados fácilmente para proveer servicios integrados.
+
 Fuente: What are Web Services? (2018). Desconocido. Recuperado 7 de noviembre de 2021, de https://www.tutorialspoint.com/webservices/what_are_web_services.html 
 
 ![web service](https://user-images.githubusercontent.com/50895566/140667459-ed004156-36ea-45be-ab50-49fa89d732e5.jpg)
